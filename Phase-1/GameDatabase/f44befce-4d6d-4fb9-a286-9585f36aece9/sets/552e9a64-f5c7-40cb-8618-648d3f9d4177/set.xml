@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Turbo Revvin Old Punks - Phase 1" id="552e9a64-f5c7-40cb-8618-648d3f9d4177" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+ <cards>
+
+  <card id="4f561444-69f8-4eca-ba30-d5f276413270" name="Agile Formation" size="Small">
+   <property name="Card Number" value="X:01"/>
+   <property name="Type" value="Action"/>
+   <property name="Black Pips" value="1"/>
+   <property name="Blue Pips" value="1"/>
+   <property name="Green Pips" value="1"/>
+   <property name="Text" value="If you have a Melee character on the battlefield -> Look at the top card of your deck. You may scrap it. If you have a Ranged character on the battlefield -> Do 1 damage to an enemy. If you have a Specialist on the battlefield -> Draw a card. Then scrap a card from your hand."/>
+   <property name="Rarity" value="Common"/>
+  </card>
+  <card id="95be641f-b722-4686-9530-a05f8b9f9d17" name="Armor Piercing Munitions" size="Small">
+   <property name="Card Number" value="X:02"/>
+   <property name="Type" value="Action"/>
+   <property name="Blue Pips" value="1"/>
+   <property name="Text" value="Choose one of your characters. When it attacks this turn in Tank mode -> It gets +2 ATK until end of battle and you scrap all the defender's Armors."/>
+   <property name="Rarity" value="Uncommon"/>
+  </card>
+  <card id="f2d78b2b-19bd-492b-95a0-86db9af7e0e8" name="Camien Grace" size="Small">
+   <property name="Card Number" value="X:03"/>
+   <property name="Type" value="Upgrade - Utility"/>
+   <property name="Orange Pips" value="1"/>
+   <property name="Text" value="When you put this on a character -> Draw a card. While this is on Chromia, Nautica, Novastar, or Windblade -> She has Focus 1."/>
+   <property name="Faction" value="Autobot"/>
+   <property name="Rarity" value="Uncommon"/>
+  </card>
+  <card id="d67e25d2-5297-4bb7-b411-e90b8d701c9e" name="Combat Drop" size="Small">
+   <property name="Card Number" value="X:04"/>
+   <property name="Type" value="Secret Action"/>
+   <property name="Black Pips" value="1"/>
+   <property name="Text" value="Reveal -> When one of your Planes, Helicopters, or Spaceships defends. When Revealed -> Flip that character to bot mode. It gets +1 DEF until the end of battle."/>
+   <property name="Rarity" value="Common"/>
+  </card>
+  <card id="e83fc415-02d0-4800-9fce-d64214eeba41" name="Contemplation" size="Small">
+   <property name="Card Number" value="X:05"/>
+   <property name="Type" value="Action"/>
+   <property name="White Pips" value="1"/>
+   <property name="Text" value="Scrap up to 3 cards from your hand. Draw a card for each card scrapped this way. If you began the game with only Autobots -> Plan 1."/>
+   <property name="Rarity" value="Uncommon"/>
+  </card>
+  <card id="a450da4d-fdef-40c1-980a-9c4ba8f1f66e" name="Corrupt Construction" size="Small">
+   <property name="Card Number" value="X:06"/>
+   <property name="Type" value="Action"/>
+   <property name="Black Pips" value="1"/>
+   <property name="Green Pips" value="1"/>
+   <property name="Text" value="One of your Constructicons gets +2 until end of turn. Put a height counter on your Tower."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+  <card id="e372c139-18da-47d6-9367-d976262330bc" name="Die Autobots!" size="Small">
+   <property name="Card Number" value="X:07"/>
+   <property name="Type" value="Action"/>
+   <property name="Blue Pips" value="1"/>
+   <property name="Text" value="Choose one of your Decepticons. It gets +2 until end of turn. Choose an enemy Autobot. It gets -2 DEF until end of turn."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+  <card id="a0c37de4-cc63-43e4-bab4-680ea9ed9d60" name="Electro-Static Shielding" size="Small">
+   <property name="Card Number" value="X:08"/>
+   <property name="Type" value="Secret Action"/>
+   <property name="White Pips" value="1"/>
+   <property name="Text" value="Reveal -> When one of your characters defends. When Revealed -> Each [B] your opponent flips this battle is a [W] instead."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+  <card id="e3bed4a0-5ae1-4866-b72a-141ddf2e7d43" name="Enhanced Fusion Cannon" size="Small">
+   <property name="Card Number" value="X:09"/>
+   <property name="Type" value="Upgrade - Weapon"/>
+   <property name="Blue Pips" value="1"/>
+   <property name="Green Pips" value="1"/>
+   <property name="ATK" value="2"/>
+   <property name="Text" value="Put on Megatron only. Pierce 2."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+  <card id="e6c9b04c-e1c2-40f2-9b4e-8c758d45d0e0" name="Evasive Action" size="Small">
+   <property name="Card Number" value="X:10"/>
+   <property name="Type" value="Secret Action"/>
+   <property name="Orange Pips" value="1"/>
+   <property name="Text" value="Reveal -> When one of your Planes, Helicopters or Spaceships would take attack damage. When Revealed -> Instead that character takes that much attack damage minus 2."/>
+   <property name="Rarity" value="Common"/>
+  </card>
+  <card id="6c1269d3-56d1-4fbe-bb8d-e59d35f72c6d" name="Fearless" size="Small">
+   <property name="Card Number" value="X:11"/>
+   <property name="Type" value="Action"/>
+   <property name="Blue Pips" value="1"/>
+   <property name="Text" value="One of your Melee characters gets +2 ATK until end of turn. Repair 1 damage from it."/>
+   <property name="Rarity" value="Uncommon"/>
+  </card>
+  <card id="d8827040-a3a3-4fc9-8c1d-b46348d04979" name="Foreman's Ingenuity" size="Small">
+   <property name="Card Number" value="X:12"/>
+   <property name="Type" value="Action"/>
+   <property name="Orange Pips" value="1"/>
+   <property name="Text" value="Play only if your starting team was all Constructicons. Return a Builder's Tools, Constructicon Enigma, Heavy Landing, or Reclaim from your scrap pile to your hand. If your Tower is 6 or higher, you may play that card."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+  <card id="db0b1ee3-4170-4724-8e5e-34c5ced062b6" name="Impetuous Stand" size="Small">
+   <property name="Card Number" value="X:13"/>
+   <property name="Type" value="Action"/>
+   <property name="White Pips" value="1"/>
+   <property name="Green Pips" value="1"/>
+   <property name="Text" value="Put an enemy Upgrade on the bottom of its owner's deck. That player draws a card."/>
+   <property name="Rarity" value="Uncommon"/>
+  </card>
+  <card id="0f1d6669-cbf5-4141-8b51-23766e7ff302" name="Rage" size="Small">
+   <property name="Card Number" value="X:01"/>
+   <property name="Type" value="Upgrade - Utility"/>
+   <property name="Orange Pips" value="1"/>
+   <property name="Text" value="Put on Melee characters only. Bold 1. When the upgraded character becomes tapped -> Do 1 damage to a tapped enemy."/>
+   <property name="Rarity" value="Common"/>
+  </card>
+  <card id="ff7fb64c-3e31-4c49-8d76-20fc4cb33067" name="Rapid Response Cycle" size="Small">
+   <property name="Card Number" value="X:15"/>
+   <property name="Type" value="Upgrade - Utility"/>
+   <property name="White Pips" value="1"/>
+   <property name="DEF" value="1"/>
+   <property name="Text" value="The upgraded character has the Motorcycle trait. When the upgraded character defends against an enemy that has more Stars than it -> The upgraded characters gets +1 DEF."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+  <card id="8f0e44bb-952e-49e4-a4b9-89e6a1173cfd" name="Revving The Engine" size="Small">
+   <property name="Card Number" value="X:16"/>
+   <property name="Type" value="Action"/>
+   <property name="Orange Pips" value="1"/>
+   <property name="Green Pips" value="1"/>
+   <property name="Text" value="One of your Cars gets +1 ATK until end of turn. If this is the third Revving the Engine you have played this turn -> One of your characters can attack untapped characters this turn as thought they were tapped. You may play another Revving the Engine."/>
+   <property name="Rarity" value="Uncommon"/>
+  </card>
+  <card id="f8a95c8f-7833-485f-bc6f-203c6e1926ea" name="Robust" size="Small">
+   <property name="Card Number" value="X:17"/>
+   <property name="Type" value="Upgrade - Armor"/>
+   <property name="Green Pips" value="1"/>
+   <property name="DEF" value="1"/>
+   <property name="Text" value="This can be in a Weapon or Utility slot."/>
+   <property name="Rarity" value="Common"/>
+  </card>
+  <card id="3213d60e-c89e-45f0-b652-83cbb32a9616" name="Scatter Blaster" size="Small">
+   <property name="Card Number" value="X:18"/>
+   <property name="Type" value="Upgrade - Weapon"/>
+   <property name="White Pips" value="1"/>
+   <property name="ATK" value="1"/>
+   <property name="Text" value="While the upgraded character is attacking a Melee character -> The upgraded character has +2 ATK."/>
+   <property name="Rarity" value="Common"/>
+  </card>
+  <card id="036afad4-d21d-4265-a51b-5fc7679ac5e8" name="Towering Presence" size="Small">
+   <property name="Card Number" value="X:19"/>
+   <property name="Type" value="Action"/>
+   <property name="White Pips" value="1"/>
+   <property name="Text" value="One of your Constructicons gets Bold 2 until end of turn. If you have Devestator, Towering Warrior on the battlefield -> Tap an enemy character that has 14 Stars or fewer."/>
+   <property name="Rarity" value="Uncommon"/>
+  </card>
+  <card id="cbb8177f-72a0-4644-8091-8ce257d0df0c" name="Trithyllium Drill" size="Small">
+   <property name="Card Number" value="X:07"/>
+   <property name="Type" value="Upgrade - Weapon"/>
+   <property name="ATK" value="1"/>
+   <property name="Blue Pips" value="1"/>
+   <property name="Text" value="When the upgraded character attacks -> Plan 2. When you put a card from your hand on top of your deck -> The upgraded character gets Pierce 1 until end of turn."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+
+  <card id="d96479fc-7ccd-4fc0-82d6-1089f902302a" name="Nightbird - Tera-Kura Construct" size="Large">
+   <property name="Card Number" value="X:T01"/>
+   <property name="Type" value="Character - Bot Mode"/>
+   <property name="ATK" value="4"/>
+   <property name="HP" value="11"/>
+   <property name="DEF" value="2"/>
+   <property name="Stars" value="7"/>
+   <property name="Faction" value="Mercenary"/>
+   <property name="Traits" value="Melee"/>
+   <property name="Text" value="Focus 1. When this battles a Melee enemy -> Do 1 damage to that enemy after the battle."/>
+   <property name="Rarity" value="Rare"/>
+  </card>
+
+ </cards>
+</set>
