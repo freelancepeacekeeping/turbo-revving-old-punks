@@ -106,7 +106,7 @@
    <property name="Rarity" value="Uncommon"/>
   </card>
   <card id="0f1d6669-cbf5-4141-8b51-23766e7ff302" name="Rage" size="Small">
-   <property name="Card Number" value="X:01"/>
+   <property name="Card Number" value="X:14"/>
    <property name="Type" value="Upgrade - Utility"/>
    <property name="Orange Pips" value="1"/>
    <property name="Text" value="Put on Melee characters only. Bold 1. When the upgraded character becomes tapped -> Do 1 damage to a tapped enemy."/>
@@ -153,7 +153,7 @@
    <property name="Rarity" value="Uncommon"/>
   </card>
   <card id="cbb8177f-72a0-4644-8091-8ce257d0df0c" name="Trithyllium Drill" size="Small">
-   <property name="Card Number" value="X:07"/>
+   <property name="Card Number" value="X:20"/>
    <property name="Type" value="Upgrade - Weapon"/>
    <property name="ATK" value="1"/>
    <property name="Blue Pips" value="1"/>
@@ -325,7 +325,7 @@
   </card>
 
   <card id="d96479fc-7ccd-4fc0-82d6-1089f902302a" name="Nightbird - Tera-Kura Construct" size="Large">
-   <property name="Card Number" value="X:T01"/>
+   <property name="Card Number" value="X:PT01"/>
    <property name="Type" value="Character - Bot Mode"/>
    <property name="ATK" value="4"/>
    <property name="HP" value="11"/>
