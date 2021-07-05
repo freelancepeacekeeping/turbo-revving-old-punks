@@ -38,6 +38,7 @@
    <property name="Type" value="Action"/>
    <property name="White Pips" value="1"/>
    <property name="Text" value="Scrap up to 3 cards from your hand. Draw a card for each card scrapped this way. If you began the game with only Autobots -> Plan 1."/>
+   <property name="Faction" value="Autobot"/>
    <property name="Rarity" value="Uncommon"/>
   </card>
   <card id="a450da4d-fdef-40c1-980a-9c4ba8f1f66e" name="Corrupt Construction" size="Small">
@@ -46,6 +47,7 @@
    <property name="Black Pips" value="1"/>
    <property name="Green Pips" value="1"/>
    <property name="Text" value="One of your Constructicons gets +2 until end of turn. Put a height counter on your Tower."/>
+   <property name="Faction" value="Decepticon"/>
    <property name="Rarity" value="Rare"/>
   </card>
   <card id="e372c139-18da-47d6-9367-d976262330bc" name="Die Autobots!" size="Small">
@@ -53,6 +55,7 @@
    <property name="Type" value="Action"/>
    <property name="Blue Pips" value="1"/>
    <property name="Text" value="Choose one of your Decepticons. It gets +2 until end of turn. Choose an enemy Autobot. It gets -2 DEF until end of turn."/>
+   <property name="Faction" value="Decepticon"/>
    <property name="Rarity" value="Rare"/>
   </card>
   <card id="a0c37de4-cc63-43e4-bab4-680ea9ed9d60" name="Electro-Static Shielding" size="Small">
@@ -69,6 +72,7 @@
    <property name="Green Pips" value="1"/>
    <property name="ATK" value="2"/>
    <property name="Text" value="Put on Megatron only. Pierce 2."/>
+   <property name="Faction" value="Decepticon"/>
    <property name="Rarity" value="Rare"/>
   </card>
   <card id="e6c9b04c-e1c2-40f2-9b4e-8c758d45d0e0" name="Evasive Action" size="Small">
@@ -90,6 +94,7 @@
    <property name="Type" value="Action"/>
    <property name="Orange Pips" value="1"/>
    <property name="Text" value="Play only if your starting team was all Constructicons. Return a Builder's Tools, Constructicon Enigma, Heavy Landing, or Reclaim from your scrap pile to your hand. If your Tower is 6 or higher, you may play that card."/>
+   <property name="Faction" value="Decepticon"/>
    <property name="Rarity" value="Rare"/>
   </card>
   <card id="db0b1ee3-4170-4724-8e5e-34c5ced062b6" name="Impetuous Stand" size="Small">
@@ -144,6 +149,7 @@
    <property name="Type" value="Action"/>
    <property name="White Pips" value="1"/>
    <property name="Text" value="One of your Constructicons gets Bold 2 until end of turn. If you have Devestator, Towering Warrior on the battlefield -> Tap an enemy character that has 14 Stars or fewer."/>
+   <property name="Faction" value="Decepticon"/>
    <property name="Rarity" value="Uncommon"/>
   </card>
   <card id="cbb8177f-72a0-4644-8091-8ce257d0df0c" name="Trithyllium Drill" size="Small">
@@ -161,6 +167,7 @@
     <property name="Stars" value="1"/>
     <property name="ATK" value="1"/>
     <property name="HP" value="2"/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -171,6 +178,7 @@
     <property name="ATK" value="1"/>
     <property name="HP" value="4"/>
     <property name="Text" value="When your Warpath, Confident Sharpshooter defends in alt mode -> Reduce the attacker's Pierce total by 2."/>
+    <property name="Faction" value="Autobot"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -180,6 +188,7 @@
     <property name="Stars" value="1"/>
     <property name="HP" value="2"/>
     <property name="Text" value="Your Private Sideswipe, Infantry Soldier has Stealth and +2 HP"/>
+    <property name="Faction" value="Autobot"/>
     <property name="Rarity" value="Uncommon"/>
   </card>
 
@@ -189,6 +198,7 @@
     <property name="Stars" value="1"/>
     <property name="DEF" value="1"/>
     <property name="Text" value="Your Skytread (Plane), Special Ops Soldier has +1 DEF. When you combine into Raider Skytread, Special Ops Soldier -> For each card placed under him you may repair 1 damage from him up to a maximum of 5 damage."/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Uncommon"/>
   </card>
 
@@ -197,6 +207,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="When your Captain Astrotrain, Spaceforce Transport flips to another mode -> Scrap the top card of your deck, if it is an Upgrade you may play it on him. Your Captain Astrotrain, Spaceforce Transport gets +1 HP for each Upgrade he has equipped up to a maximum of +3 HP."/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -206,6 +217,7 @@
     <property name="Stars" value="1"/>
     <property name="HP" value="1"/>
     <property name="Text" value="Before the game begins -> You may reveal a Holomatter Projector from your deck and put it into your hand. When you play a Holomatter Project and you have Sergeant Hound, Infantry Recon on the battlefield -> Draw 2 cards and then scrap a card from your hand."/>
+    <property name="Faction" value="Autobot"/>
     <property name="Rarity" value="Common"/>
   </card>
 
@@ -214,6 +226,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="If an opponent's card would cause an Armor to be scrapped from your Major Ultra Magnus, Infantry City Commander -> Instead, you may scrap an Armor from your hand. While your Major Ultra Magnus, Infantry City Commander is upgraded with Ultra Magnus Armor -> He has +2 HP."/>
+    <property name="Faction" value="Autobot"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -222,6 +235,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="0"/>
     <property name="Text" value="If your starting team is all Constructions -> Your Constructicons have +2 HP. At the start of your first turn -> Remove a height counter from your Tower. When you flip a Constructicon to bot mode -> Draw a card. When you combine into Devestator, Towering Warrior -> Flip this."/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Rare"/>
     <alternate type="back" name="Prepare For Extermination!" size="Small">
       <property name="Type" value="Stratagem - back"/>
@@ -235,6 +249,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="Before the game begins -> You may put a Smokethrower from your deck on your Private Smokescreen, Special Ops Soldier. While your Private Smokescreen, Special Ops Soldier is upgraded with Smokethrower -> Your other characters have Safeguard 3."/>
+    <property name="Faction" value="Autobot"/>
     <property name="Rarity" value="Uncommon"/>
   </card>
 
@@ -244,6 +259,7 @@
     <property name="HP" value="2"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="If your starting team is all Insecticons -> Your starting Star limit is increased by 2."/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -253,6 +269,7 @@
     <property name="Stars" value="1"/>
     <property name="HP" value="2"/>
     <property name="Text" value="If your Private Hot Rod, Infantry Soldier would take non-attack damage -> Instead you may have one of your other characters take that non-attack damage."/>
+    <property name="Faction" value="Autobot"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -261,6 +278,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="If your starting team is all Omnibots -> Your starting Star limit is increased by 1. Each of your Omnibots has +1 HP and +1 DEF. When you upgrade one of your Omnibot Cars -> Draw a card. Then scrap a card from your hand."/>
+    <property name="Faction" value="Autobot"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -269,6 +287,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="Before the game begins -> You may put a Cybertronium Bow from your deck on your Specialist Flamewar, Special Ops Hunter. When your Specialist Flamewar, Special Ops Hunter is upgraded with Cybertronium Bow and attacks -> Do 2 damage to the defender after the battle."/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Common"/>
   </card>
 
@@ -277,6 +296,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="When you play a Secret Action while you have Soundwave, Communications on the battlefield -> Do 1 damage to an enemy."/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Rare"/>
   </card>
 
@@ -287,6 +307,7 @@
     <property name="ATK" value="2"/>
     <property name="DEF" value="1"/>
     <property name="Text" value="While your Acid Storm, Toxic Terror is in alt mode -> He has Pierce 2."/>
+    <property name="Faction" value="Decepticon"/>
     <property name="Rarity" value="Common"/>
   </card>
 
@@ -295,6 +316,7 @@
     <property name="Type" value="Stratagem"/>
     <property name="Stars" value="1"/>
     <property name="Text" value="At the start of your turn -> You may scrap a card from your hand. If you do, flip this. When your Nightbird, Tera-Kura Construct attacks and doesn't have a Weapon -> She gets +1 ATK until end of battle."/>
+    <property name="Faction" value="Mercenary"/>
     <property name="Rarity" value="Rare"/>
     <alternate type="back" name="Evasion Protocol" size="Small">
       <property name="Type" value="Stratagem - back"/>
